@@ -36,9 +36,9 @@ return [
     ],
 
     'facebook' => [
-        'client_id'     => env('FB_ID'),
-        'client_secret' => env('FB_SECRET'),
-        'redirect'      => env('APP_URL') . '/oauth/facebook/callback',
+        'client_id'     => '1985778191680274',
+        'client_secret' => 'c56b0464ed9f0b9dfea4e4ae91e61a9b',
+        'redirect'      => '/oauth/facebook/callback',
     ],
 
     'twitter' => [
