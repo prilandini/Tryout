@@ -42,9 +42,9 @@ return [
     ],
 
     'twitter' => [
-        'client_id'     => env('TW_ID'),
-        'client_secret' => env('TW_SECRET'),
-        'redirect'      => env('APP_URL') . '/oauth/twitter/callback',
+        'client_id'     => 'D4ngUX6Dbvw0DkzEjYDoiZpX7',
+        'client_secret' => 'nt2TCJzuv1fpK4JJ6QKTPl8lFfiYZxsaYKMapa8TmNGkEii1sW',
+        'redirect'      => '/oauth/twitter/callback',
     ],
 
     'google' => [
