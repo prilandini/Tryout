@@ -24,7 +24,8 @@ class SocialAuthController extends Controller
     protected $providers = [
         'facebook',
         'google',
-        'twitter'
+        'twitter',
+        'github'
     ];
 
     /**

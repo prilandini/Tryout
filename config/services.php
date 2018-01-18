@@ -53,6 +53,11 @@ return [
         'redirect'      => '/oauth/google/callback',
     ],
 
+    'github' => [
+        'client_id'     => '09ef4e9132cd7b2404bb',
+        'client_secret' => '87afc2eda1b1716628f9b7c9eef43da7bef7fcae',
+        'redirect'      => '/oauth/github/callback',
+    ],
     
 
 ];
