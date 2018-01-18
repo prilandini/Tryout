@@ -48,9 +48,9 @@ return [
     ],
 
     'google' => [
-        'client_id'     => env('GL_ID'),
-        'client_secret' => env('GL_SECRET'),
-        'redirect'      => env('APP_URL') . '/oauth/google/callback',
+        'client_id'     => '626745519689-ro3hkep8ocan5imkfqr0lh0jf3hb0387.apps.googleusercontent.com',
+        'client_secret' => 's5Eq-keZ1V0cHmSTllrwf91C',
+        'redirect'      => '/oauth/google/callback',
     ],
 
     
