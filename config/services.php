@@ -54,8 +54,8 @@ return [
     ],
 
     'github' => [
-        'client_id'     => '09ef4e9132cd7b2404bb',
-        'client_secret' => '87afc2eda1b1716628f9b7c9eef43da7bef7fcae',
+        'client_id'     => 'fed38052a1e9c1629975',
+        'client_secret' => 'b268cdf02d66764a8862c8f0494f2cce21024100',
         'redirect'      => '/oauth/github/callback',
     ],
     
